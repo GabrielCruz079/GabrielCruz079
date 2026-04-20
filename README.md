@@ -17,11 +17,11 @@ My goal is to grow technically and contribute to projects that transform data in
 
 | Projeto               | Preview Online                        |  Tecnologias Usadas        | Description  |
 |-----------------------|-------------------------------------|--------------------------|----------|
-| **Projeto Venda** | [🔗 Ver online](https://github.com/GabrielCruz079/Projeto-vendas) | Python / Excel |-----|
-| **Analise de Estoque** | [🔗 Ver online](https://github.com/GabrielCruz079/analise-estoque-python) | Python / Excel e Power BI |------|
-| **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |----|
-| **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |-----|
-| **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |-----|
+| **Projeto Venda** | [🔗 Repositório](https://github.com/GabrielCruz079/Projeto-vendas) | Python / Excel |-----|
+| **Analise de Estoque** | [🔗 Repositório](https://github.com/GabrielCruz079/analise-estoque-python) | Python / Excel e Power BI |------|
+| **Ainda está por vir** | [🔗 Repositório](https://seu-link.com) | |----|
+| **Ainda está por vir** | [🔗 Repositório](https://seu-link.com) | |-----|
+| **Ainda está por vir** | [🔗 Repositório](https://seu-link.com) | |-----|
 
 ---
 
