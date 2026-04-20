@@ -16,8 +16,7 @@ My goal is to grow technically and contribute to projects that transform data in
 ## 🚀 Meus Projetos
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
-|-----------------------|-------------------------------------|--------------------------|
-| **Consulta simples no Excel** | [🔗 Ver online]() | HTML / CSS / JS / Node.js / Express         |
+|-----------------------|-------------------------------------|--------------------------|       |
 | **Projeto Venda** | [🔗 Ver online](https://github.com/GabrielCruz079/Projeto-vendas) | Python / Excel |
 | **Analise de Estoque** | [🔗 Ver online](https://github.com/GabrielCruz079/analise-estoque-python) | Python / Excel e Power BI |
 | **Ainda está por vir** | [🔗 Ver online](https://seu-link.com) | |
