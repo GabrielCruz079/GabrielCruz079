@@ -2,11 +2,13 @@
 
 About Me
 
-I am a Computer Science student with a growing focus on Data Analysis. Over the past years, I have been building practical knowledge in Python, SQL, and data organization, always aiming to apply what I learn to real-world scenarios.
+Sou um Analista de Dados em formação, com foco na transformação de dados em insights estratégicos para apoio à tomada de decisão. Ao longo da minha trajetória, venho desenvolvendo habilidades em análise, manipulação e visualização de dados, utilizando ferramentas como Python, SQL, Power BI e Excel.
 
-As an entrepreneur in the fragrance market, I apply analytical thinking to inventory control, sales tracking, and business decision-making.
+Tenho experiência na organização e tratamento de dados, criação de dashboards e apoio na análise de informações, aplicando conceitos de análise exploratória e interpretação de dados para identificar padrões e oportunidades de melhoria.
 
-My goal is to grow technically and contribute to projects that transform data into strategic insights.
+Além disso, possuo familiaridade com bibliotecas como Pandas para análise de dados em Python, bem como com a construção de consultas SQL para extração e manipulação de informações. Também utilizo o Power BI para desenvolver visualizações interativas e relatórios que facilitam o entendimento dos dados.
+
+Minha abordagem é orientada a resultados, com foco em gerar valor por meio dos dados e apoiar decisões mais eficientes. Estou em constante evolução, buscando aprimorar minhas habilidades técnicas e acompanhar as tendências da área de dados e tecnologia.
 
 ---
 💻 Habilidades Técnicas
