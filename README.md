@@ -2,13 +2,13 @@
 
 About Me
 
-Sou um Analista de Dados em formação, com foco na transformação de dados em insights estratégicos para apoio à tomada de decisão. Ao longo da minha trajetória, venho desenvolvendo habilidades em análise, manipulação e visualização de dados, utilizando ferramentas como Python, SQL, Power BI e Excel.
+Sou um Analista de Dados em formação, com foco na transformação de dados em insights estratégicos para apoio à tomada de decisão.
 
-Tenho experiência na organização e tratamento de dados, criação de dashboards e apoio na análise de informações, aplicando conceitos de análise exploratória e interpretação de dados para identificar padrões e oportunidades de melhoria.
+Tenho experiência prática em análise exploratória de dados, criação de dashboards e organização de informações, utilizando ferramentas como Python (Pandas), SQL, Excel e Power BI.
 
-Além disso, possuo familiaridade com bibliotecas como Pandas para análise de dados em Python, bem como com a construção de consultas SQL para extração e manipulação de informações. Também utilizo o Power BI para desenvolver visualizações interativas e relatórios que facilitam o entendimento dos dados.
+Já desenvolvi projetos envolvendo análise de vendas e controle de estoque, aplicando tratamento de dados, identificação de padrões e construção de visualizações para facilitar a interpretação dos resultados.
 
-Minha abordagem é orientada a resultados, com foco em gerar valor por meio dos dados e apoiar decisões mais eficientes. Estou em constante evolução, buscando aprimorar minhas habilidades técnicas e acompanhar as tendências da área de dados e tecnologia.
+Minha abordagem é orientada a resolver problemas reais por meio dos dados, buscando gerar valor e apoiar decisões mais eficientes. Estou em constante evol
 
 ---
 💻 Habilidades Técnicas
@@ -19,8 +19,8 @@ Minha abordagem é orientada a resultados, com foco em gerar valor por meio dos 
 
 | Projeto               | Preview Online                        |  Tecnologias Usadas        | Description  |
 |-----------------------|-------------------------------------|--------------------------|----------|
-| **Analise de Estoque** | [🔗 Repositório](https://github.com/GabrielCruz079/analise-estoque-python) | Python / Excel e Power BI |  Feita apenas analise colocando em pratica os conhecimentos |
-| **Projeto Venda** | [🔗 Repositório](https://github.com/GabrielCruz079/Projeto-vendas) | Python / Excel |Foi feita uma analise exploratória, depois um dashboard detalhado |
+| **Analise de Estoque** | [🔗 Repositório](https://github.com/GabrielCruz079/analise-estoque-python) | Python / Excel |  Feita apenas analise colocando em pratica os conhecimentos |
+| **Projeto Venda** | [🔗 Repositório](https://github.com/GabrielCruz079/Projeto-vendas) | Python / Excel e Power Bi |Análise de dados de estoque utilizando Python, Excel e Power BI, com foco no controle de produtos, identificação de padrões de entrada e saída e apoio à gestão de inventário. |
 | **Ainda está por vir** | [🔗 Repositório](https://seu-link.com) | |----|
 | **Ainda está por vir** | [🔗 Repositório](https://seu-link.com) | |-----|
 | **Ainda está por vir** | [🔗 Repositório](https://seu-link.com) | |-----|
