@@ -1,19 +1,23 @@
-## `Gabriel Ramos | Data Analysis & Technology`
+## 👨‍💻 Gabriel Ramos | Data Analysis & Technology
 
-About Me
+### 📌 About Me
 
-Sou um Analista de Dados em formação, com foco na transformação de dados em insights estratégicos para apoio à tomada de decisão.
+Sou um Analista de Dados em formação, com foco na transformação de dados em insights estratégicos para apoiar a tomada de decisão.
 
 Tenho experiência prática em análise exploratória de dados, criação de dashboards e organização de informações, utilizando ferramentas como Python (Pandas), SQL, Excel e Power BI.
 
-Já desenvolvi projetos envolvendo análise de vendas e controle de estoque, aplicando tratamento de dados, identificação de padrões e construção de visualizações para facilitar a interpretação dos resultados.
+Já desenvolvi projetos voltados à análise de vendas e controle de estoque, aplicando técnicas de limpeza e tratamento de dados, identificação de padrões e construção de visualizações que facilitam a interpretação dos resultados.
 
-Minha abordagem é orientada a resolver problemas reais por meio dos dados, buscando gerar valor e apoiar decisões mais eficientes. Estou em constante evol
+Minha abordagem é orientada à resolução de problemas reais por meio de dados, buscando sempre gerar valor e apoiar decisões mais eficientes. Estou em constante evolução, aprimorando minhas habilidades técnicas e analíticas.
 
 ---
-💻 Habilidades Técnicas
 
+### ⚙️ Habilidades Técnicas
 
+- Python (Pandas)
+- SQL
+- Excel
+- Power BI
 ---
 ## 🚀 Meus Projetos
 
