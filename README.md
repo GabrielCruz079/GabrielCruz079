@@ -26,7 +26,7 @@ Minha abordagem é orientada à resolução de problemas reais por meio de dados
 | Projeto               | Preview Online                        |  Tecnologias Usadas        | Description  |
 |-----------------------|-------------------------------------|--------------------------|----------|
 | **Analise de Estoque** | [🔗 Repositório](https://github.com/GabrielCruz079/analise-estoque-python) | Python / Excel / Power Bi |Análise do desempenho financeiro dos produtos com base no lucro, destacando os itens com maior contribuição para o resultado.|
-| **Portfólio Projeto Venda ** | [🔗 Repositório](https://github.com/GabrielCruz079/Projeto-vendas) | Python / Excel e Power Bi |Análise de dados de estoque utilizando Python, Excel e Power BI, com foco no controle de produtos, identificação de padrões de entrada e saída e apoio à gestão de inventário. |
+| ** Portfólio Projeto Venda ** | [🔗 Repositório](https://github.com/GabrielCruz079/Projeto-vendas) | Python / Excel e Power Bi |Análise de dados de estoque utilizando Python, Excel e Power BI, com foco no controle de produtos, identificação de padrões de entrada e saída e apoio à gestão de inventário. |
 | **portfolio analise dados** | [🔗 Repositório](https://seu-link.com) | em desenvolvimento | Projeto de análise de dados para geração de insights e apoio à tomada de decisão usando Python, SQL e Power BI. |
 | **Ainda está por vir** | [🔗 Repositório](https://seu-link.com) | |-----|
 | **Ainda está por vir** | [🔗 Repositório](https://seu-link.com) | |-----|
