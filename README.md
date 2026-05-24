@@ -1,64 +1,98 @@
-## 👨‍💻 Gabriel Ramos | Data Analysis & Technology
+# Gabriel Ramos da Cunha da Cruz
 
-### 📌 About Me
+### Analista de Dados em Formação · Python · SQL · Power BI · Business Intelligence
 
-Sou um Analista de Dados em formação, com foco na transformação de dados em insights estratégicos para apoiar a tomada de decisão.
+Estudante de Ciência da Computação com foco em **Análise de Dados e Business Intelligence**. Desenvolvo projetos práticos que cobrem o ciclo completo de dados — da coleta e limpeza à visualização e geração de insights — utilizando Python, SQL, Power BI e Excel.
 
-Tenho experiência prática em análise exploratória de dados, criação de dashboards e organização de informações, utilizando ferramentas como Python (Pandas), SQL, Excel e Power BI.
+Minha abordagem é orientada a **resolver problemas reais com dados**: estruturo análises exploratórias, construo dashboards e entrego indicadores que apoiam decisões mais eficientes. Tenho experiência complementar em rotinas administrativas e financeiras que exigiram organização rigorosa de informações e controle de indicadores operacionais.
 
-Já desenvolvi projetos voltados à análise de vendas e controle de estoque, aplicando técnicas de limpeza e tratamento de dados, identificação de padrões e construção de visualizações que facilitam a interpretação dos resultados.
-
-Minha abordagem é orientada à resolução de problemas reais por meio de dados, buscando sempre gerar valor e apoiar decisões mais eficientes. Estou em constante evolução, aprimorando minhas habilidades técnicas e analíticas.
+📍 Arujá – SP &nbsp;|&nbsp; 📧 gabriel.ramos.cruz079@gmail.com &nbsp;|&nbsp; 💼 Aberto a estágios em Dados e BI
 
 ---
 
-## ⚙️ Habilidades Técnicas
+## 🛠️ Competências Técnicas
+
+**Linguagens & Bibliotecas**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-## 🚀 Meus Projetos
+**Visualização & BI**
 
-| Projeto               | Preview Online                        |  Tecnologias Usadas        | Description  |
-|-----------------------|-------------------------------------|--------------------------|----------|
-| **Analise de Estoque** | [🔗 Repositório](https://github.com/GabrielCruz079/analise-estoque-python) | Python / Excel / Power Bi |Análise do desempenho financeiro dos produtos com base no lucro, destacando os itens com maior contribuição para o resultado.|
-| ** Portfólio Projeto Venda ** | [🔗 Repositório](https://github.com/GabrielCruz079/Projeto-vendas) | Python / Excel e Power Bi |Análise de dados de estoque utilizando Python, Excel e Power BI, com foco no controle de produtos, identificação de padrões de entrada e saída e apoio à gestão de inventário. |
-| **portfolio analise dados** | [🔗 Repositório](https://github.com/GabrielCruz079/portfolio-analise-dados) | SQL / Python / Excel / Power Bi | Projeto de análise de dados para geração de insights e apoio à tomada de decisão usando Python, SQL e Power BI. |
-| **Ainda está por vir** | [🔗 Repositório](https://seu-link.com) | |-----|
-| **Ainda está por vir** | [🔗 Repositório](https://seu-link.com) | |-----|
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
----
+**Ferramentas**
 
-## 🎯 Tecnologias adicionais
-
-### Front-End
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Back-End
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 💡 Sobre Mim
+## 🚀 Projetos de Dados
 
-- 🎓 Atualmente estudo no **[Faculdade Cruzeiro do Sul]**
-- 💻 Estou aprendendo **[Py, Excel, Power BI, Analise de dados]**
-- 🎯 Meu objetivo é **[Ser Cientista de dados]**
-- 📚 Gosto de aprender sobre **[Programação]**
+### 📊 Análise de Desempenho Financeiro — Estoque
+> **Python · Excel · Power BI**
+
+Analisei o desempenho financeiro de um portfólio de produtos com base em lucro, margem e volume de vendas. Identifiquei os itens de maior e menor contribuição para o resultado, estruturando visualizações que facilitam decisões de precificação e mix de produtos.
+
+**Destaques:** limpeza e tratamento de dados · análise de rentabilidade por categoria · dashboard com KPIs financeiros
+
+🔗 [Ver repositório](https://github.com/GabrielCruz079/Gabriel_Ramos)
 
 ---
-  <div> 
-    
-  <a href="https://www.instagram.com/gabriel_ramos_9" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabriel.ramos.cruz079@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-ramos-50a081357/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+### 🛒 Análise de Vendas — Portfólio
+> **Python · Excel · Power BI**
+
+Desenvolvi análise exploratória de dados de vendas para identificar padrões de demanda, sazonalidade e comportamento por produto e período. O projeto gerou indicadores de controle de estoque e apoio à gestão de inventário, com relatório visual em Power BI.
+
+**Destaques:** EDA completa · pipeline de ETL · dashboard interativo com filtros dinâmicos · identificação de padrões de entrada e saída
+
+🔗 [Ver repositório](https://github.com/GabrielCruz079/Gabriel_Ramos)
+
+---
+
+### 🔍 Análise de Dados com SQL, Python e Power BI
+> **SQL · Python · Excel · Power BI**
+
+Projeto integrado de análise de dados cobrindo extração via SQL, tratamento com Python e visualização em Power BI. Estruturei queries com JOINs, agregações e subqueries para geração de insights segmentados, entregando painel executivo com indicadores de desempenho.
+
+**Destaques:** modelagem relacional · consultas SQL otimizadas · storytelling com dados · KPIs por segmento
+
+🔗 [Ver repositório](https://github.com/GabrielCruz079/Gabriel_Ramos)
+
+---
+
+### ⏳ Projeto em desenvolvimento
+> Em breve — acompanhe o repositório.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GabrielCruz079&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCruz079&layout=compact&theme=default&hide_border=true" />
 </div>
+
+---
+
+## 🎓 Formação
+
+**Bacharelado em Ciência da Computação** · Universidade Cruzeiro do Sul — Guarulhos, SP *(em andamento)*
+Disciplinas relevantes: Algoritmos, Banco de Dados, Estrutura de Dados, Inteligência Artificial, Estatística Aplicada.
+
+**Tecnólogo em Análise e Desenvolvimento de Sistemas** · ENIAC — Guarulhos, SP
+Foco em SQL, Python e fundamentos de desenvolvimento de sistemas.
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.ramos.cruz079@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielCruz079/Gabriel_Ramos)
