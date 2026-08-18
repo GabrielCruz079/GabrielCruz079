@@ -1,6 +1,6 @@
-# Gabriel Ramos da Cunha da Cruz
+# Gabriel Ramos Cruz
 
-### Analista de Dados em Formação · Python · SQL · Power BI · Business Intelligence
+### Analista de Dados · Python · SQL · Power BI · Business Intelligence
 
 Estudante de Ciência da Computação com foco em **Análise de Dados e Business Intelligence**. Desenvolvo projetos práticos que cobrem o ciclo completo de dados — da coleta e limpeza à visualização e geração de insights — utilizando Python, SQL, Power BI e Excel.
 
@@ -13,11 +13,12 @@ Minha abordagem é orientada a **resolver problemas reais com dados**: estruturo
 ## 🛠️ Competências Técnicas
 
 **Linguagens & Bibliotecas**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 **Visualização & BI**
 
@@ -33,6 +34,12 @@ Minha abordagem é orientada a **resolver problemas reais com dados**: estruturo
 ---
 
 ## 🚀 Projetos de Dados
+
+---
+
+
+
+---
 
 ### 📊 Análise de Desempenho Financeiro — Estoque
 > **Python · Excel · Power BI**
@@ -86,9 +93,6 @@ Projeto integrado de análise de dados cobrindo extração via SQL, tratamento c
 **Bacharelado em Ciência da Computação** · Universidade Cruzeiro do Sul — Guarulhos, SP *(em andamento)*
 Disciplinas relevantes: Algoritmos, Banco de Dados, Estrutura de Dados, Inteligência Artificial, Estatística Aplicada.
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas** · ENIAC — Guarulhos, SP
-Foco em SQL, Python e fundamentos de desenvolvimento de sistemas.
-
 ---
 
 ## 📫 Contato
@@ -96,3 +100,4 @@ Foco em SQL, Python e fundamentos de desenvolvimento de sistemas.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.ramos.cruz079@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielCruz079/Gabriel_Ramos)
+[![Portfólio](https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=github&logoColor=green)](https://gabrielcruz079.github.io/)
