@@ -5,7 +5,7 @@ Transformo dados brutos em dashboards e indicadores que apoiam decisões de neg�
 
 Minha abordagem é orientada a resolver problemas reais com dados: estruturo análises exploratórias, construo dashboards e entrego indicadores que apoiam decisões mais eficientes. Tenho experiência complementar em rotinas administrativas e financeiras que exigiram organização rigorosa de informações e controle de indicadores operacionais.
 
-📍 Arujá – SP | 📧 gabriel.ramos.cruz079@gmail.com | 💼 Aberto a estágios em Dados e BI
+📍 Guarulhos – SP | 📧 gabriel.ramos.cruz079@gmail.com | 💼 Aberto a estágios em Dados e BI
 
 ---
 
