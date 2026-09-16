@@ -78,7 +78,7 @@ Projeto integrado de análise de dados cobrindo extração via SQL, tratamento c
 
 **Destaques:** modelagem relacional · consultas SQL otimizadas · storytelling com dados · KPIs por segmento
 
-🔗 [PRECISO CONFIRMAR — este é um repositório diferente dos quatro acima, ou é a mesma coisa descrita duas vezes? Se for outro, me passa o slug real]
+🔗 [Ver repositório](http://github.com/GabrielCruz079/analise-vendas-eda)
 
 ---
 
