@@ -13,15 +13,21 @@ Minha abordagem é orientada a resolver problemas reais com dados: estruturo an�
 
 **Linguagens & Bibliotecas**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Visualização & BI**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 **Ferramentas**
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -45,14 +51,36 @@ Modelagem de indicadores de rotatividade de funcionários a partir de dados sint
 
 **Insight:** taxa de turnover de 22,6%, custo estimado em R$ 1,2M.
 
-🔗 [Ver repositório](https://github.com/GabrielCruz079/analise-rh-turnover)
+🔗 [Ver repositório](https://github.com/GabrielCruz079/rh_analytics)
 
 ---
 
-### 📊 Análise de Desempenho Financeiro — Estoque
+### 🏭 LogBrasil — Custo de Estoque por Filial
+> **Python · MySQL · Excel · Power BI**
+
+Análise de custo de estoque de uma distribuidora logística com 18 filiais distribuídas pelo Brasil, incluindo sazonalidade simulada e dashboard executivo.
+
+**Insight:** custo total anual de R$ 1,13 bilhão, com a região Sudeste representando 50% do total.
+
+🔗 [Ver repositório](https://github.com/GabrielCruz079/Logistica-18-filiais-analytics)
+
+---
+
+### 🛒 Análise de Vendas — Python · SQL · Power BI
+> **Python · SQL · Excel · Power BI**
+
+EDA completa de dados de vendas, identificando padrões de demanda, sazonalidade e desempenho por produto e período, com pipeline de ETL e dashboard interativo.
+
+**Insight:** faturamento total de R$ 71K, com margem líquida de R$ 30K.
+
+🔗 [Ver repositório](https://github.com/GabrielCruz079/analise-vendas-python-sql-powerbi)
+
+---
+
+### 📊 Análise de Estoque — Desempenho Financeiro
 > **Python · Excel · Power BI**
 
-Analisei o desempenho financeiro de um portfólio de produtos com base em lucro, margem e volume de vendas. Identifiquei os itens de maior e menor contribuição para o resultado, estruturando visualizações que facilitam decisões de precificação e mix de produtos.
+Análise do desempenho financeiro de um portfólio de produtos com base em lucro, margem e volume de vendas, estruturando visualizações que apoiam decisões de precificação e mix de produtos.
 
 **Destaques:** limpeza e tratamento de dados · análise de rentabilidade por categoria · dashboard com KPIs financeiros
 
@@ -60,30 +88,8 @@ Analisei o desempenho financeiro de um portfólio de produtos com base em lucro,
 
 ---
 
-### 🛒 Análise de Vendas — Portfólio
-> **Python · SQL · Excel · Power BI**
-
-Desenvolvi análise exploratória de dados de vendas para identificar padrões de demanda, sazonalidade e comportamento por produto e período, com relatório visual em Power BI e indicadores de apoio à gestão de inventário.
-
-**Destaques:** EDA completa · pipeline de ETL · dashboard interativo com filtros dinâmicos
-
-🔗 [Ver repositório](https://github.com/GabrielCruz079/analise-vendas-python-sql-powerbi)
-
----
-
-### 🔍 Análise de Dados com SQL, Python e Power BI
-> **SQL · Python · Excel · Power BI**
-
-Projeto integrado de análise de dados cobrindo extração via SQL, tratamento com Python e visualização em Power BI. Estruturei queries com JOINs, agregações e subqueries para geração de insights segmentados, entregando painel executivo com indicadores de desempenho.
-
-**Destaques:** modelagem relacional · consultas SQL otimizadas · storytelling com dados · KPIs por segmento
-
-🔗 [Ver repositório](http://github.com/GabrielCruz079/analise-vendas-eda)
-
----
-
 ### ⏳ Projeto em desenvolvimento
-> Sistema de suporte à decisão (DSS) para investimentos — Python, sentimento de mercado, MySQL e Power BI. Simulação, sem operação real.
+> **Investimentos B3 + Cripto** — Python, MySQL e Power BI. Coleta de dados reais via Yahoo Finance (ações da B3 e criptomoedas, 2023–2024), com indicadores de retorno, volatilidade e simulação de portfólio.
 
 ---
 
